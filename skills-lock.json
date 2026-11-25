@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "skills": {
+    "gemini-api-dev": {
+      "source": "google-gemini/gemini-skills",
+      "commit": "c4d0c62c1240e08a90546186bf320600ab6a039a",
+      "sourceType": "github",
+      "skillPath": "skills/gemini-api-dev/SKILL.md",
+      "computedHash": "b3823bd7210e46d4528ca85ebc03326842a6df47ced9a856a1729639f9756c12"
+    },
+    "postgres": {
+      "source": "timescale/pg-aiguide",
+      "commit": "1aef6e452b97fae580d57677a807fd0d601ddc7b",
+      "sourceType": "github",
+      "skillPath": "skills/postgres/SKILL.md",
+      "computedHash": "54ffb3b26ff50d366d29034e80f10a892f539aa0628bd4c3ebf9fb1f9da24f79"
+    },
+    "systematic-debugging": {
+      "source": "obra/superpowers",
+      "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+      "sourceType": "github",
+      "skillPath": "skills/systematic-debugging/SKILL.md",
+      "computedHash": "79ff0583175346e39431b0dc713b223edd1bd7a7ea2b6c8b78b2fb9a3fed6782"
+    }
+  }
+}
